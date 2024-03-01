@@ -1,4 +1,6 @@
 flask
 torch
 transformers
-SocketIO  
+SocketIO
+flask_socketio
+Flask-SocketIO
